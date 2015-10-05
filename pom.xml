@@ -8,8 +8,8 @@
   		<version>4.12</version>
   	</dependency>
   </dependencies>
-  <name>com.pogman:easy-java</name>
-  <description>Made java code more readable and easy to write.</description>
+  <name>com.jaspion:jaspion-java8</name>
+  <description>Practical java 8 utility belt for you projects</description>
   <groupId>com.jaspion</groupId>
   <artifactId>jaspion-java8</artifactId>
 </project>
