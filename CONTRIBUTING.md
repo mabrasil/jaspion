@@ -1,5 +1,7 @@
 #Contributing
 
+Contributions are very welcome! If you'd like to contribute, these guidelines may help you.
+
 ##Table of Contents
 
 - [Versioning](#versioning)
@@ -37,3 +39,5 @@ If we find an issue that's related, we will reference it and close your issue, s
 [jaspion](https://github.com/pogist/jaspion/) is distributed under the
 MIT License, available in this repository. All contributions are assumed to be also licensed under
 the MIT License.
+
+> *Kyojuu Tokusou Juspion* is a Japanese tokusatsu television series and part of the Metal Hero series, created by Toei Company. The Jaspion Projects does not have any rights over anything related to the series; images, logos, and everything related to the show have *All Rights Reserved to Toei Company*.
