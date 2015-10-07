@@ -12,6 +12,8 @@
 
 ## Getting Started
 
+> Hold on, a much better documentation will come in a near future.
+
 ## Contributing
 
 Contributions are very welcome! If you'd like to contribute, these guidelines may help you.
